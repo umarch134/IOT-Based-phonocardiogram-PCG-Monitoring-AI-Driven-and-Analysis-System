@@ -1,0 +1,10 @@
+# Query: react-icons/all
+# ContextLines: 1
+
+1 result - 1 file
+
+src\Home\components\Features.jsx:
+  2  import React from 'react';
+  3: import { FaHeartbeat, FaBrain, FaMobileAlt, MdSecurity, FaComments, MdSpeed, FaMicrophone } from 'react-icons/all'; // Combined import for cleaner look
+  4   import { SomeIcon } from 'react-icons/lib/all'
+   
